@@ -1,0 +1,1 @@
+# diabetes-Data-prediction-using-logistic-regression-and-support-vector-machine
